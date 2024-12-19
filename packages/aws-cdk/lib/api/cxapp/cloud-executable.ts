@@ -24,7 +24,7 @@ export interface CloudExecutableProps {
   /**
    * Application configuration (settings and context)
    */
-  configuration: Configuration;
+  // configuration: Configuration;
 
   /**
    * AWS object (used by synthesizer and contextprovider)
